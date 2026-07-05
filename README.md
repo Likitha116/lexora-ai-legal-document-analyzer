@@ -123,11 +123,9 @@ Project Root/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Likitha116/lexora-ai-legal-document-analyzer.git
-cd lexora-ai-legal-document-analyzer
+git clone https://github.com/Likitha116/Lexora-AI.git
+cd Lexora-AI
 ```
-
----
 
 ### Create a virtual environment
 
